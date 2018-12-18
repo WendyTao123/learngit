@@ -1,1 +1,0 @@
-git dddd test rm command 
